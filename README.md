@@ -8,8 +8,9 @@ How to use :
 > just host it on a hosting and change permission of login.txt to 777
 
 
-Happy Hacking 
+# Happy Hacking 
 
-##Team XploitWizer 
-#XploitWizer Provides no warranty with this software and will not be responsible for any direct or indirect damage caused due to the usage of this tool.
-#XploitSPY is built for Educational Purpose. Use at your own Risk.
+## XploitWizer Provides no warranty with this software and will not be responsible for any direct or indirect damage caused due to the usage of this tool.
+## XploitSPY is built for Educational Purpose. Use at your own Risk.
+
+# Team XploitWizer 
